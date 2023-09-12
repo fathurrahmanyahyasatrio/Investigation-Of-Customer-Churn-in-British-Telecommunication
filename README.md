@@ -1,1 +1,3 @@
-# Investigation-Of-Customer-Churn-in-British-Telecommunication
+# Investigation Of Customer Churn in British Telecommunication
+
+This project strives to reduce customer churn for management of British Telecom and control other devastating circumstances in the telecom industry. I use technical, analytical and commercial skills to support both internal and external stakeholders in understanding British Telecom Customers and identifying strength, weakness, opportunities and threat that will deliver a business benefit or improve British Telecom customer experience. It is essential to proactively prevent customer churn and consistently maintain high levels of customer satisfaction. This is crucial because acquiring new customers can be up to five times more expensive than retaining existing ones.
